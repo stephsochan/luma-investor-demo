@@ -1,0 +1,9 @@
+{
+  "name": "Luma Dating App",
+  "short_name": "Luma",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#100d14",
+  "theme_color": "#100d14",
+  "description": "Find your frequency."
+}
